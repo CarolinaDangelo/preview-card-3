@@ -1,4 +1,4 @@
-<img src="https://github.com/CarolinaDangelo/preview-card-3/blob/3d5890a0fa7d623e5c32e62e80a862d2246b9126/images/captura.jpg">
+<img src="https://github.com/CarolinaDangelo/preview-card-3/blob/7883bd2b74362850515fb62dc666ae27b2963b34/images/captura.jpg">
 
 <h1 align="center">Frontend Mentor - 3-column preview card component solution</h1>
 
